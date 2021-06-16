@@ -176,4 +176,4 @@ ubuntu@ip-172-31-45-161:~$
 - Transfer data from your Machine to AWS EC2 instace
 - `scp -i "file_name.pem" -r /local/directory/ ec2@ec2_ip:/remote/directory/`
 
-## Go to `2-Tier-app-deployment.md` for next steps 
+- [Next steps for 2 Tier Deployment](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/2-Tier-app-deployment.md)
