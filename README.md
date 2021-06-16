@@ -5,7 +5,7 @@
 
 
 ## Pre-requisites
-
+[MARKDOWN CHEATSHEET FOR .md files](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 * set up with an IAM account
 
 

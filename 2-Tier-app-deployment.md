@@ -94,3 +94,6 @@ sudo mkdir -p /data/db
 - Source the .bashrc file
 
 - `source ~/.bashrc `
+### NETWORK CONFIGURATION
+
+[AWS Networking with VPC, Internet Gateway, Subnets, Route Tables, NACLs, Security Groups](https://towardsdatascience.com/vpc-subnet-and-router-in-aws-cloud-17c8f421af21)
