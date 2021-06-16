@@ -1,11 +1,16 @@
 # Cloud Computing and AWS
 
+- [AWS S3](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/S3.md)
+- [2 Tier Deployment on AWS](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/2-Tier-app-deployment.md)
+- [CICD with Jenkins](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/jenkins_deployment.md)
+- [DevOps with CICD and Jenkins](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
 
 # Simple Deployment
 
 
 ## Pre-requisites
-[MARKDOWN CHEATSHEET FOR .md files](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
 * set up with an IAM account
 
 
