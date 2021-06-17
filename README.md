@@ -5,6 +5,7 @@
 - [CICD with Jenkins](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/jenkins_deployment.md)
 - [DevOps with CICD and Jenkins](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
 - [Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [Network Introduction](https://github.com/khanmaster/devops_bootcamp_2Tier_deployment_AWS/blob/main/networking_ip_submask.md)
 
 # Simple Deployment
 
